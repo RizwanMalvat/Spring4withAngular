@@ -1,0 +1,11 @@
+0:0:0:0:0:0:0:1 - - [04/Jul/2017:17:24:36 +0530] "GET / HTTP/1.1" 200 615 http-bio-8080-exec-1 209
+0:0:0:0:0:0:0:1 - - [04/Jul/2017:17:24:37 +0530] "GET /styles.bundle.js HTTP/1.1" 200 10798 http-bio-8080-exec-9 14
+0:0:0:0:0:0:0:1 - - [04/Jul/2017:17:24:37 +0530] "GET /inline.bundle.js HTTP/1.1" 200 5764 http-bio-8080-exec-7 7
+0:0:0:0:0:0:0:1 - - [04/Jul/2017:17:24:37 +0530] "GET /main.bundle.js HTTP/1.1" 200 32618 http-bio-8080-exec-6 102
+0:0:0:0:0:0:0:1 - - [04/Jul/2017:17:24:37 +0530] "GET /polyfills.bundle.js HTTP/1.1" 200 169478 http-bio-8080-exec-8 61
+0:0:0:0:0:0:0:1 - - [04/Jul/2017:17:24:37 +0530] "GET /vendor.bundle.js HTTP/1.1" 200 2543278 http-bio-8080-exec-10 715
+0:0:0:0:0:0:0:1 - - [04/Jul/2017:17:24:43 +0530] "GET /inline.bundle.js.map HTTP/1.1" 200 5824 http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [04/Jul/2017:17:24:43 +0530] "GET /styles.bundle.js.map HTTP/1.1" 200 14243 http-bio-8080-exec-10 2
+0:0:0:0:0:0:0:1 - - [04/Jul/2017:17:24:43 +0530] "GET /polyfills.bundle.js.map HTTP/1.1" 200 207026 http-bio-8080-exec-8 31
+0:0:0:0:0:0:0:1 - - [04/Jul/2017:17:24:43 +0530] "GET /main.bundle.js.map HTTP/1.1" 200 25554 http-bio-8080-exec-7 8
+0:0:0:0:0:0:0:1 - - [04/Jul/2017:17:24:43 +0530] "GET /vendor.bundle.js.map HTTP/1.1" 200 3095777 http-bio-8080-exec-6 332
